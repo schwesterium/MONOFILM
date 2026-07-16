@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fae9b7dd62a1f154ba9cc1a5c85d512d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - switchGround: {instanceID: 0}
+  - virtualCamera: {instanceID: 0}
+  - gameOverUI: {instanceID: 0}
+  - stageClearUI: {instanceID: 0}
+  - pauseUI: {instanceID: 0}
+  - pauseClip: {fileID: 8300000, guid: f00d2d7eb26aa1a429627653e4d53c17, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
